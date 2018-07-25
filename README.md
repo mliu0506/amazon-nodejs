@@ -69,6 +69,7 @@ The goal was to create an Amazon-like store front using Node.js and MySQL.
 ![alt text](./images/customer1.png)
 ![alt text](./images/customer2.png)
 ![alt text](./images/customer3.png)
+![alt text](./images/customer3a.png)
 ![alt text](./images/customer4.png)
 
 * BamazonManager.js 
